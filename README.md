@@ -8,7 +8,7 @@ Esta é a documentação do hardware do projeto Mecha Electra, robô para compet
 > [!CAUTION]
 > Confira múltiplas vezes o tamanho dos parafusos. Nunca force nenhum componente mecânico, todas as peças devem se encaixar com facilidade.
 
-> [!WARN]
+> [!WARNING]
 > Algumas informaçoes desse manual podem estar incorretas. Verifique duas vezes com o manual do fabricante dos respectivos componentes (Festo, Dynamixel). Os autores não se responsabilizam por potenciais danos causados.
 # Índice
 
