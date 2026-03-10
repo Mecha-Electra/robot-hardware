@@ -12,6 +12,6 @@ Esta é a documentação do hardware do projeto Mecha Electra, robô para compet
 > Algumas informaçoes desse manual podem estar incorretas. Verifique duas vezes com o manual do fabricante dos respectivos componentes (Festo, Dynamixel). Os autores não se responsabilizam por potenciais danos causados.
 # Índice
 
-- [Montagem da estrutura](estrutura.md)
+- [Montagem da estrutura](Mecanica/mecanica.md)
 - [Montagem do braço](Montagem_braco/braco.md)
 - [Circuito elétrico](Eletrica/eletrica.md)
