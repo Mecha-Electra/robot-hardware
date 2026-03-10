@@ -69,3 +69,15 @@ do outro lado, utilize parafusos M2x6
 
 ## Pulso (rotação)
 
+Remova os 4 parafusos M2.5x20 da traseira do motor
+![motor garra remoção](media/img_1150201162824438757.jpg)
+
+Cuidado com as arruelas plásticas!
+![Arruelas plasticas](media/img_6461890541095719752.jpg)
+
+Remova os parafusos M2x8 da Servo Horn
+![parafusos coroa](media/img_8625704056564378332.jpg)
+
+Não esqueça o protetor!
+![parafusos coroa](media/img_8060793201369738763.jpg)
+
